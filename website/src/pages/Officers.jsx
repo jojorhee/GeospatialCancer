@@ -1,11 +1,11 @@
 const officers = [
-  { role: 'Project Lead', name: '[ Officer name ]',bio: '[ one-line bio — add here ]' },
-  { role: 'Chief Operating Officer', name: '[ Officer name ]',bio: '[ one-line bio — add here ]' },
-  { role: 'Chief Financial Officer', name: '[ Officer name ]',bio: '[ one-line bio — add here ]' },
-  { role: 'Chief Technology Officer', name: '[ Officer name ]',bio: '[ one-line bio — add here ]' },
-  { role: 'Chief Legal Officer', name: '[ Officer name ]',bio: '[ one-line bio — add here ]' },
-  { role: 'Chief Data Officer', name: '[ Officer name ]',bio: '[ one-line bio — add here ]' },
-  { role: 'Chief Data Officer', name: '[ Officer name ]',bio: '[ one-line bio — add here ]' },
+  { role: 'Project Lead', name: 'Alan Christopher Rajkumar',bio: '[ one-line bio — add here ]' },
+  { role: 'Chief Operating Officer', name: 'Tanvir Hoque',bio: '[ one-line bio — add here ]' },
+  { role: 'Chief Financial Officer', name: 'Pavit Yaduwanshi',bio: '[ one-line bio — add here ]' },
+  { role: 'Chief Technology Officer', name: 'Sarthak Aggarwal',bio: '[ one-line bio — add here ]' },
+  { role: 'Chief Legal Officer', name: 'Matteo',bio: '[ one-line bio — add here ]' },
+  { role: 'Chief Data Officer', name: 'Allison',bio: '[ one-line bio — add here ]' },
+  { role: 'Chief Research Officer', name: 'Yuze Ren',bio: '[ one-line bio — add here ]' },
 ]
 
 export default function Officers() {
